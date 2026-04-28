@@ -1,0 +1,23 @@
+mg {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+h1 {
+    background-color:chocolate
+}
+h2 {
+    background-color:aquamarine
+}
+h3 {
+    background-color:blueviolet
+}
+p {
+    background-color:darkblue
+}
+h4 {
+    background-color:indianred
+}
+ul {
+    background-color:azure
+}
